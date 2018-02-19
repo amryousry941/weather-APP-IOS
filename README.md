@@ -8,3 +8,7 @@ pods : SwiftyJson , AlamoFire
 OOP concepts
 Web service and parsing JSON data
 table view and get data from it
+
+
+instructions:
+unzip pod and archive file in assets then open file Clima.xcworkspace project by xcode 
